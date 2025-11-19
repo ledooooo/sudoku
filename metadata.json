@@ -1,0 +1,5 @@
+{
+  "name": "MindFlow Sudoku",
+  "description": "A professional, aesthetically pleasing Sudoku game featuring difficulty levels, pencil notes, and AI-powered hints using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
